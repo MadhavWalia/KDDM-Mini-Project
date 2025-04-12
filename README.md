@@ -2,7 +2,7 @@
 
 ## Installation
 
-You can install this project using either pip with a virtual environment.
+You can install this project using pip with a virtual environment.
 
 1. Clone the repository
 ```bash
